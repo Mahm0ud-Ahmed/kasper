@@ -1,0 +1,7 @@
+.content .text {
+    margin-left: 100px;
+  }
+
+  .about .about-summaries .container .item{
+    flex-basis: 50%;
+  }
